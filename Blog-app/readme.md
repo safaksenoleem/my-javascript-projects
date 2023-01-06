@@ -1,5 +1,9 @@
 # This application is a live blog application.
 
+
+https://user-images.githubusercontent.com/114605881/211100229-bd58483a-b353-4746-aebc-8004bc5e4914.mp4
+
+
 # What you can do in the app
 
 1. Add a blog
