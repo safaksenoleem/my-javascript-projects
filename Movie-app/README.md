@@ -1,5 +1,9 @@
 # This application is a live favorite movie application.
 
+
+https://user-images.githubusercontent.com/114605881/211219869-9f1cf223-a4a3-4c89-b707-298df2c2e7d1.mp4
+
+
 # What you can do in the app
 
 1. Adding your favorite movies
