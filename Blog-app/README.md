@@ -12,6 +12,7 @@ https://user-images.githubusercontent.com/114605881/211100229-bd58483a-b353-4746
 4. The operations you have done above are added to the server at the same time.
 5. Search operations between blogs
 6. Viewing blog detail pages on a separate page
+7. This application is designed to be fully responsive.
 
 # Scripts to be used to lift the project
 
