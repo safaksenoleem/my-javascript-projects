@@ -12,6 +12,7 @@ https://user-images.githubusercontent.com/114605881/211219869-9f1cf223-a4a3-4c89
 4. View poster previews of your favorite movies
 5. Searching through your favorite movies
 6. Adding your favorite movies in local storage
+7. This application is designed to be fully responsive.
 
 # To run the application
 
